@@ -1,6 +1,6 @@
 # aiagent_rail_road
 
-## 1. 로컬 환경 설정 (개발자용)
+## 1. 로컬 환경 설정 
 1. 파이썬 가상환경 만들기 (선택 권장)
 ```
     python -m venv venv
