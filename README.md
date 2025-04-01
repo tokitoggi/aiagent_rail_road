@@ -18,3 +18,14 @@
     streamlit run app.py
 ```
 - 브라우저가 자동으로 열리고 http://localhost:8501에서 웹앱이 실행됨!
+
+4. Yolov8.pt
+```bash
+├── weight
+│   ├── best.pt
+├── vlm.py
+├── detect.py
+├── smart_detect.py
+└── app.py
+```
+- weight밑에 best.pt로 넣으면 됨
